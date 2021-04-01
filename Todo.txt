@@ -1,0 +1,12 @@
+1. Create HTML
+2. Add CSS
+3. Add Fontawesome
+4. Create nav bar
+5. Create section.top-container
+6. Inside 5, create a header.showcase
+7. Inside 6, create a h1, p, a to describe our showcase
+8. Below 7, create a div.top-box.top-box-a
+9. Inside 8, create an h4, p, a for membership
+10. Duplicate 9 for a new option of membership with higher price
+11. After the first section, create a new section.boxes
+12. 
